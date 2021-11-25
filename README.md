@@ -21,7 +21,7 @@ Figure 2: December temperature summary
 
 ## Summary:
 
-Both the temperature and precipitation outcomes show that Oahu is an ideal location year-round for the intended shop. Further analysis for the remaining months is needed to truly confirm the temperature for these months. Apart from the temperature and precipitation, other factors to consider are humidity and wind level as well as the sources for the ingredients and equipment needed.  Additional data and analysis that might be necessary know hotel availability for tourists in the area, the proximity of restaurants to the intended location and how many competitors exist already.
+Both the temperature and precipitation outcomes show that Oahu is an ideal location year-round for the intended shop. Further analysis for the remaining months is needed to confirm the temperature for these months. Apart from the temperature and precipitation, other factors to consider are humidity and wind level as well as the sources for the ingredients and equipment needed.  Additional data and analysis that might be necessary to know hotel availability for tourists in the area, the proximity of restaurants to the intended location and how many competitors exist already.
 
 ![June - Precipitation](https://user-images.githubusercontent.com/91093413/143489262-9dfdb891-284f-40f0-9005-0e370787e663.png)
 Figure 3: June precipitaion summary
